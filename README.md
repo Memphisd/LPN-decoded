@@ -5,4 +5,4 @@ Repository provides implementations of:
 - BKW reduction  
 - generation of a pool where last x coordinates of LPN vectors are fixed to zero  
   
-The parameters have to be modified via header files. Setup scripts are coming soon.  
+The parameters have to be modified via header files. 
